@@ -1,0 +1,4 @@
+Sitemap: https://i-amitghosh.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: i-amitghosh.github.io
